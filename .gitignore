@@ -1,0 +1,13 @@
+node_modules/
+dist/
+release/
+release-build/
+server/data/
+*.log
+*.db
+*.db-wal
+*.db-shm
+.DS_Store
+Thumbs.db
+.qoder/
+.portable-tmp/
